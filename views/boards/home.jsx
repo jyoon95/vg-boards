@@ -5,11 +5,7 @@ function home() {
     return (
         <Def>
             <main>
-                <h1>Post Anything</h1>
-                <a href="/places">
-                    <button className="btn-primary">View Posts</button>
-                </a>
-
+                <h1>Home</h1>
             </main>
         </Def>
     )
